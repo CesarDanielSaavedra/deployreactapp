@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Editame <code>src/App.js</code> y guarda para recargar.
-        </p>
+        <h1>
+          Esta es una aplicación de React
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
